@@ -1,1 +1,5 @@
-console.log("contacts");
+let section  = newFunction();
+function newFunction() {
+    return document.querySelector('section');
+}
+
